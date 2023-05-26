@@ -1,0 +1,52 @@
+*{
+    font-family: 'Courgette', cursive;
+}
+
+body{
+    text-align: center;
+}
+h1{
+    font-size: 250%;
+    margin-top: 0%;
+}
+
+.by{
+    margin-top: 0%;
+    margin-bottom: 5%;
+    padding-top:%;
+}
+
+.middle{
+
+    text-align: center;
+}
+ol.my-m{
+    display: inline-block;
+    text-align: left;
+}
+h2{
+    margin-top: 5%;
+    margin-bottom: 0;
+    padding-bottom: 0%;
+}
+
+.one{
+   
+    background-color: rgba(0, 68, 255, 0.911);
+    color: white;
+    width: 20%;
+    height: 40px;
+    border-radius: 30px;
+}
+.two{
+    background-color: rgba(0, 68, 255, 0.911);
+    color: white;
+    width: 20%;
+    height: 40px;
+    border-radius: 30px;
+}
+
+
+hr{
+    width: 70%;
+}

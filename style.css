@@ -1,0 +1,34 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+table{
+    margin: auto;
+    border: 1px solid black;
+    width: 50%; 
+    
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse:collapse ;
+}
+th, td{
+    padding: 3%;
+}
+caption{
+
+    font-size: 150%;
+    margin-bottom: 5%;
+    font-weight: bold;
+}
+
+.Students{
+    text-align: left;
+    text-transform: capitalize;
+}
+
+
+.capital{
+
+    text-transform: capitalize;
+}
